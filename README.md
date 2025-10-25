@@ -153,7 +153,8 @@ Execute the programs and publish them.
     </html>
 ## OUTPUT
 ## image.html:
-![output](../1.png)
+<img width="1906" height="1198" alt="image" src="https://github.com/user-attachments/assets/5dc8807b-2caf-42f2-b52e-8e7deaef9550" />
+
 ## deluxe.html:
 ![output](<Screenshot 2025-10-16 201040.png>)
 ## grt.html:
